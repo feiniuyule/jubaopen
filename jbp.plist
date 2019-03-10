@@ -12,7 +12,7 @@
                         <string>software-package</string>
                         <key>url</key>
                         <!-- 注意：IPA文件URL -->
-                        <string>http://132.232.153.78:8081/download/Phone/AppStore/feiniuyule.ipa</string>
+                        <string>http://132.232.153.78:8081/download/Phone/AppStore/jbp.ipa</string>
                     </dict>
                     <dict>
                         <key>kind</key>
@@ -37,14 +37,14 @@
                 <dict>
                     <key>bundle-identifier</key>
                     <!-- 注意：应用程序identifier -->
-                    <string>com.game.feiniuyule11</string>
+                    <string>com.game.jubaopen</string>
                     <key>bundle-version</key>
                     <string>1.0</string>
                     <key>kind</key>
                     <string>software</string>
                     <key>title</key>
                     <!-- 注意：应用程序名称 -->
-                    <string>飞牛娱乐</string>
+                    <string>聚宝盆娱乐</string>
                 </dict>
             </dict>
         </array>
